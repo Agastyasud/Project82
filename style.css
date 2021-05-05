@@ -1,0 +1,8 @@
+.canvas {
+    background-image: url(https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg);
+}
+#Maincanvas {
+ background-color: aliceblue;  
+ border-style: dashed; 
+ border-width: 0px;
+}
